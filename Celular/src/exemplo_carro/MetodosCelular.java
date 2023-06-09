@@ -88,7 +88,7 @@ public class MetodosCelular {
         }
     }
 
-    //Funcao para usuario escolher a funcao
+    //Funcao para o usuario escolher a funcao
 
     public void EscolherFuncao(int opcao) {
         switch(opcao) {

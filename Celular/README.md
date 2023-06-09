@@ -5,9 +5,9 @@ Este exercício é baseado em quatro métodos: Ligar o Celular, Desligar o Celul
 Não é possível aumentar o volume do celular quando ele está desligado, o mesmo vale para diminuir.
 Não há como desligar o celular caso já esteja desligado, o mesmo vale para ligar.
 
-Obs.: Para que o programa funcione perfeitamente, utilizar apenas valores como no exemplo a seguir em relação ao volume do celular:
+<br/> 
 
-<br/>
+Obs.: Para que o programa funcione perfeitamente, utilizar apenas valores como no exemplo a seguir em relação ao volume do celular:
 
 Exemplo: 0, 10, 20, 30, 40... (Números divisíveis por 10).
 
