@@ -91,6 +91,8 @@ public class MetodosCarro {
         }
     }
 
+    //Funcao para finalizar operacao
+
     public void FinalizarOperacao() {
         if(this.ligarCarro) {
             this.ligarCarro = false;
@@ -105,32 +107,31 @@ public class MetodosCarro {
     public void EscolherFuncao(int opcao) {
         switch(opcao) {
             case 1:
-                CarroInformacoes();
-                break;
+            CarroInformacoes();
+            break;
             
             case 2:
-                EntrarCarro();
-                break;
+            EntrarCarro();
+            break;
             
             case 3:
-                SairCarro();
-                break;
+            SairCarro();
+            break;
 
             case 4:
-                LigarCarro();
-                break;
+            LigarCarro();
+            break;
 
             case 5:
-                DesligarCarro();
-                break;
+            DesligarCarro();
+            break;
 
             case 6:
-                FinalizarOperacao();
-                break;
+            FinalizarOperacao();
+            break;
 
             default: 
-                System.out.println("Opcao invalida, reinicie o programa e tente novamente");
-
+            System.out.println("Opcao invalida, reinicie o programa e tente novamente");
         }
     }
 
