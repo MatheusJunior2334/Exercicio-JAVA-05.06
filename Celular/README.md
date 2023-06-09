@@ -1,9 +1,15 @@
-# Exercício 01 - Métodos para carro
+# Exercício 02 - Métodos para celular
 
-Este exercício é baseado em quatro métodos: Entrar no Carro, Sair do Carro, Ligar o Carro e Sair do Carro.
+Este exercício é baseado em quatro métodos: Ligar o Celular, Desligar o Celular, Aumentar o Volume do celular e Diminuir o Volume do celular.
 
-Não é possível ligar o carro quando se está fora do carro, o mesmo vale para desligar.
-Não há como desligar o carro caso já esteja desligado, o mesmo vale para ligar, e por assim vai com os outros métodos.
+Não é possível aumentar o volume do celular quando ele está desligado, o mesmo vale para diminuir.
+Não há como desligar o celular caso já esteja desligado, o mesmo vale para ligar.
+
+Obs.: Para que o programa funcione perfeitamente, utilizar apenas valores como no exemplo a seguir em relação ao volume do celular:
+
+<br/>
+
+Exemplo: 0, 10, 20, 30, 40... (Números divisíveis por 10).
 
 <br/>
 
